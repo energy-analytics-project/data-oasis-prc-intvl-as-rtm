@@ -8,3 +8,8 @@
 /home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190917_20190917_PRC_INTVL_AS_RTM_v1.sql
 /home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190920_20190920_PRC_INTVL_AS_RTM_v1.sql
 /home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190919_20190919_PRC_INTVL_AS_RTM_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190917_20190917_PRC_INTVL_AS_RTM_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190920_20190920_PRC_INTVL_AS_RTM_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190918_20190918_PRC_INTVL_AS_RTM_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190916_20190916_PRC_INTVL_AS_RTM_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-prc-intvl-as-rtm/sql/20190919_20190919_PRC_INTVL_AS_RTM_v1.sql
